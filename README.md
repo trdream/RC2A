@@ -1,4 +1,4 @@
 # RC2A
-Projeto Aula DevOps
-Thiago Alcântara Pardim
-R.A 1900303
+Projeto Aula DevOps<br/>
+Thiago Alcântara Pardim<br/>
+R.A 1900303<br/>
